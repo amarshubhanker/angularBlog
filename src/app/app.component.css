@@ -1,0 +1,13 @@
+li:active{
+  background-color: mediumaquamarine;
+}
+
+.nav-wrapper{
+  background-color: #439aca;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #cccccc;
+}

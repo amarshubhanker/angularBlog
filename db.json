@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "Fifa WorldCup",
+      "desc": "Italy didn't Qualified for the world cup",
+      "postedby": "vishrut",
+      "favourite": true,
+      "category": "Sports",
+      "id": 1
+    },
+    {
+      "name": "Breaking News",
+      "desc": "Today's weather forecast is awesome..!!!!",
+      "postedby": "amar",
+      "favourite": false,
+      "category": "Others",
+      "id": 2
+    },
+    {
+      "name": "GoogleDocs",
+      "desc": "To create edit and delete documents online at a particular platform.",
+      "postedby": "amar",
+      "favourite": true,
+      "category": "Technology",
+      "id": 3
+    },
+    {
+      "name": "German Revolution",
+      "desc": "Hitler was the main reason for germany's conspiracy to kill Jews.",
+      "postedby": "dulton",
+      "favourite": false,
+      "category": "Others",
+      "id": 5
+    },
+    {
+      "name": "FifaWorldCup",
+      "desc": "Italy didn't qualified for the world cup",
+      "postedby": "dulton",
+      "favourite": false,
+      "category": "Sports",
+      "id": 6
+    },
+    {
+      "name": "Sensex",
+      "desc": "Nifty and SENSEX both going down depicts the lowering of candlestick",
+      "postedby": "amar",
+      "favourite": false,
+      "category": "Business",
+      "id": 7
+    },
+    {
+      "name": "religion",
+      "desc": "he belief in and worship of a superhuman controlling power, especially a personal God or gods",
+      "postedby": "amar",
+      "favourite": false,
+      "category": "Religion",
+      "id": 8
+    }
+  ]
+}
